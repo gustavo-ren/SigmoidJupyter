@@ -1,0 +1,2 @@
+# SigmoidJupyter
+Função Sigmoide
